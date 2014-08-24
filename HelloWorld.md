@@ -3,6 +3,6 @@ datasciencecoursera
 
 datasciencecoursera
 
-"## This is a markdown file"
+## This is a markdown file
  
-"## Have a nice day!"
+## Have a nice day!
